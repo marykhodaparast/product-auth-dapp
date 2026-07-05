@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Applications/XAMPP/xamppfiles/htdocs/product-auth-dapp/backend/contracts/ProductRegistry.sol": {
+      "lastModificationDate": 1783163462256,
+      "contentHash": "18d0cab4d2c626ac30bb955f43eb1e51",
+      "sourceName": "contracts/ProductRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.28"
+      ],
+      "artifacts": [
+        "ProductRegistry"
+      ]
+    }
+  }
+}
